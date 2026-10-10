@@ -1,5 +1,5 @@
-name: pad-1-backend
+name: be-pad-1
+package: gayuhma/be-pad-1
 capabilities:
   database:
     engine: mysql
-
