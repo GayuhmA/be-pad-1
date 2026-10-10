@@ -1,3 +1,8 @@
+[package]
+name = "gayuhma/be-pad-1"
+version = "0.1.0"
+description = "Backend Laravel"
+
 [dependencies]
 "php/php" = "=8.3.4"
 
@@ -11,4 +16,3 @@ runner = "wasi"
 
 [command.annotations.wasi]
 main-args = ["-t", "/app/public", "-S", "localhost:8080"]
-
